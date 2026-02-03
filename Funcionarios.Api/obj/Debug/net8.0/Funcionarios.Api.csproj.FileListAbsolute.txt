@@ -114,3 +114,5 @@
 /Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Api/obj/Debug/net8.0/Funcionarios.Api.pdb
 /Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Api/obj/Debug/net8.0/Funcionarios.Api.genruntimeconfig.cache
 /Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Api/obj/Debug/net8.0/ref/Funcionarios.Api.dll
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Api/bin/Debug/net8.0/Funcionarios.Application.dll
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Api/bin/Debug/net8.0/Funcionarios.Application.pdb

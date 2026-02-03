@@ -935,6 +935,22 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "Funcionarios.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Funcionarios.Data": "1.0.0",
+          "Funcionarios.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.23",
+          "Pomelo.EntityFrameworkCore.MySql": "8.0.3"
+        },
+        "compile": {
+          "bin/placeholder/Funcionarios.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funcionarios.Application.dll": {}
+        }
+      },
       "Funcionarios.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2641,6 +2657,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Funcionarios.Application/1.0.0": {
+      "type": "project",
+      "path": "../Funcionarios.Application/Funcionarios.Application.csproj",
+      "msbuildProject": "../Funcionarios.Application/Funcionarios.Application.csproj"
+    },
     "Funcionarios.Data/1.0.0": {
       "type": "project",
       "path": "../Funcionarios.Data/Funcionarios.Data.csproj",
@@ -2654,6 +2675,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Funcionarios.Application >= 1.0.0",
       "Funcionarios.Data >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.23",
       "Microsoft.EntityFrameworkCore >= 8.0.23",
@@ -2687,6 +2709,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Application/Funcionarios.Application.csproj": {
+              "projectPath": "/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Application/Funcionarios.Application.csproj"
+            },
             "/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Data/Funcionarios.Data.csproj": {
               "projectPath": "/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Data/Funcionarios.Data.csproj"
             }

@@ -18,6 +18,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Funcionarios.Application\Funcionarios.Application.csproj" />
       <ProjectReference Include="..\Funcionarios.Data\Funcionarios.Data.csproj" />
     </ItemGroup>
 
