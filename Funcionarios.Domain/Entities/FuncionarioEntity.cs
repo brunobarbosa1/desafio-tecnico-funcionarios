@@ -6,6 +6,7 @@ public class FuncionarioEntity
     public string Nome { get; set; }
     public String Nacionalidade { get; set; }
     public DateTime DataNascimento { get; set; } 
+    
     public bool EhFormadoEmTi{ get; set; }
     
 

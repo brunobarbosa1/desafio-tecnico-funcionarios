@@ -1,0 +1,15 @@
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/bin/Debug/net8.0/Funcionarios.Domain.deps.json
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/bin/Debug/net8.0/Funcionarios.Domain.runtimeconfig.json
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/bin/Debug/net8.0/Funcionarios.Domain.dll
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/bin/Debug/net8.0/Funcionarios.Domain.pdb
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.csproj.AssemblyReference.cache
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.AssemblyInfoInputs.cache
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.AssemblyInfo.cs
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.csproj.CoreCompileInputs.cache
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.sourcelink.json
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.dll
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/refint/Funcionarios.Domain.dll
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.pdb
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/Funcionarios.Domain.genruntimeconfig.cache
+/Users/brunobarbosa/Documents/Funcionarios.Api /Funcionarios.Domain/obj/Debug/net8.0/ref/Funcionarios.Domain.dll
